@@ -5,6 +5,7 @@
 
 # User-specific files
 client_secret.json
+client_secret.config
 *.suo
 *.user
 *.userosscache
